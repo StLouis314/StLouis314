@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### ![heavy](https://github.com/StLouis314/StLouis314/assets/107023134/9e3fb56e-ed82-46a9-9d21-06036c308911)
+Hi there 👋
 🔭 I’m currently working on learning GitHub!
 
 🌱 I’m currently learning GitHub, Python, Automation, Networking and Security!
